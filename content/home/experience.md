@@ -17,28 +17,43 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+    title = ""
+    company = "Universität Hildesheim"
+    company_url = "https://www.uni-hildesheim.de"
+    location = "Hildesheim"
+    date_start = "2020-08-01"
+    date_end = ""
+    description = """Wissenschaftlicher Mitarbeiter"""
+
+[[experience]]
+  title = ""
+  company = "Technische Universität München"
+  company_url = "https://www.tum.de"
+  location = "München"
+  date_start = "2016-10-01"
+  date_end = "2020-07-31"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  Studentische Hilfskraft mit den Aufgaben:
+  * Tutor im Fach Mathematik
+  * Hausaufgabenkorrektor im Fach Mathematik"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+    title = ""
+    company = "Technische Universität München"
+    company_url = "https://www.tum.de"
+    location = "München"
+    date_start = "2017-08-01"
+    date_end = "2017-10-01"
+    description = """Praktikant am LNT zur Erstellung von Applets mittels JSXGraph"""
 
+[[experience]]
+  title = ""
+  company = "StudyHelp"
+  company_url = "https://www.studyhelp.de"
+  location = "München, Rosenheim, Traunstein"
+  date_start = "2017-04-01"
+  date_end = "2019-04-01"
+  description = """Leiter von Abiturvorbereitungskursen im Fach Mathematik"""
 +++
