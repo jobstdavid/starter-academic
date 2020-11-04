@@ -10,7 +10,7 @@ role: Scientific Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Universität Hildesheim
+- name: University of Hildesheim
   url: "https://www.uni-hildesheim.de"
 
 # Short bio (displayed in user profile at end of posts)
