@@ -39,9 +39,9 @@ subtitle = ""
       description = ""  
 
 [[feature]]
-      icon = "python"
-      icon_pack = "fab"
-      name = "Python"
+      icon = "f6c4"
+      icon_pack = "fas"
+      name = "Ensemble Postprocessing"
       description = ""  
 
 [[feature]]
