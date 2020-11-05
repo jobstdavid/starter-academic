@@ -39,7 +39,7 @@ subtitle = ""
       description = ""  
 
 [[feature]]
-      icon = "f6c4"
+      icon = "cloud-sun"
       icon_pack = "fas"
       name = "Ensemble Postprocessing"
       description = ""  
