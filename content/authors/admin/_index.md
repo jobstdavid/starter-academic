@@ -31,7 +31,7 @@ education:
   - course: M.Ed. für ein Lehramt an Gymnasien in Mathematik und Sport
     institution: Technische Universität München
     year: 2020
-    schoolbadge: '/UHlogo.png'
+    schoolbadge: '/tumlogo.png'
   - course: B.Sc. in Mathematik mit Nebenfach Elektro- und Informationstechnik
     institution: Technische Universität München
     year: 2019
