@@ -26,6 +26,7 @@ date_format = "Jan 2006"
     date_start = "2020-08-01"
     date_end = ""
     description = """Wissenschaftlicher Mitarbeiter"""
+    schoolbadge: '/tumlogo.png' """
 
 
 [[experience]]
