@@ -26,8 +26,6 @@ date_format = "Jan 2006"
     date_start = "2020-08-01"
     date_end = ""
     description = """Wissenschaftlicher Mitarbeiter"""
-    <img data-src="/media/tumlogo.png" alt="ACM" style="height: 60px;" class="lazyload">
-"""
 
 [[experience]]
   title = ""
