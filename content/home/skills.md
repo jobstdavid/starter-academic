@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
       icon = "cloud-sun"
       icon_pack = "fas"
-      name = "Ensemble Postprocessing"
+      name = "Probabilistische Vorhersagen"
       description = ""  
 
 [[feature]]
