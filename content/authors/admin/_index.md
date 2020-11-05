@@ -76,7 +76,3 @@ user_groups:
 ---
 
 Mein Name ist David Jobst und ich arbeite aktuell an der Universität Hildesheim am Institut für Mathematik und Angewandte Informatik als wissenschaftlicher Mitarbeiter im Bereich Stochastik und Statistik. Dort bin ich in der Lehre im Fach Mathematik tätig und beschäftige mich mit meiner Dissertation.
-
-Diese Website verfolgt zwei Ziele:
-* Einerseits soll sie eine Zusammenstellung an Zusammenfassungen, Aufgaben und Lösungen zu den **bayerischen Staatsexamina Analysis** für das Lehramt Gymnasium sein, da man bisher dazu nicht viel im Web findet. Aufgaben und Lösungen zu den **bayerischen Staatsexamina Algebra** für das Lehramt Gymnasium bieten die Websites der [LMU](https://www.mathematik.uni-muenchen.de/~gerkmann/stexaufg/) und der [Uni Augsburg](https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/alg/lehre/examenskurs/examensaufgaben/) an.
-* Andererseits werden aktuelle Projekte, Fortschritte und Publikationen zu meiner Forschungsarbeit an dieser Stelle veröffentlicht.
