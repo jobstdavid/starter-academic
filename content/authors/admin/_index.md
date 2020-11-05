@@ -27,7 +27,7 @@ education:
   - course: 1. Staatsexamen für ein Lehramt an Gymnasien in Mathematik und Sport
     institution: Technische Universität München
     year: 2020
-    schoolbadge: '/tumlogo.png'
+    schoolbadge: '/HUZU_.png'
   - course: M.Ed. für ein Lehramt an Gymnasien in Mathematik und Sport
     institution: Technische Universität München
     year: 2020
