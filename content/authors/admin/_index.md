@@ -20,7 +20,7 @@ interests:
 - Mathematiklehre an Schule und Universität
 - Probabilistische Vorhersagen
 - Copulas und Vine Copulas
-- Räumliche Statistik 
+- Räumliche Statistik
 
 
 education:
@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#kontakt'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/jobstdavid
