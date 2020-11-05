@@ -33,15 +33,15 @@ subtitle = ""
       description = ""  
 
 [[feature]]
-      icon = "r-project"
-      icon_pack = "fab"
-      name = "R"
-      description = ""  
-
-[[feature]]
       icon = "cloud-sun"
       icon_pack = "fas"
       name = "Ensemble Postprocessing"
+      description = ""  
+
+[[feature]]
+      icon = "r-project"
+      icon_pack = "fab"
+      name = "R"
       description = ""  
 
 [[feature]]
