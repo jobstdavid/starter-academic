@@ -18,8 +18,9 @@ bio:
 
 interests:
 - Mathematiklehre an Schule und Universität
-- Probabilistische Wettervorhersagen
-- Statistische Nachbereitung von Ensemble-Wetterprognosen
+- Probabilistische Vorhersagen
+- Copulas und Vine Copulas
+- Räumliche Statistik 
 
 
 education:
