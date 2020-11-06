@@ -17,10 +17,10 @@ organizations:
 bio:
 
 interests:
-- Mathematiklehre an Schule und Universität
-- Probabilistische Vorhersagen
-- Copulas und Vine Copulas
-- Räumliche Statistik
+- teaching at school and university
+- probabilistic forecasting
+- copulas and vine copulas
+- spatial statistics
 
 
 education:
