@@ -5,10 +5,8 @@ active = true   # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Teaching"
-fsdsdf
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 +++
