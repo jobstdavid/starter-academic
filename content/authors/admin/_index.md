@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Mein Name ist David Jobst und ich arbeite aktuell an der Universität Hildesheim am Institut für Mathematik und Angewandte Informatik als wissenschaftlicher Mitarbeiter im Bereich der Stochastik. Dort bin ich in der Lehre im Fach Mathematik tätig und beschäftige mich mit meiner Dissertation.
+Mein Name ist David Jobst und ich arbeite aktuell an der Universität Hildesheim am Institut für Mathematik und Angewandte Informatik als wissenschaftlicher Mitarbeiter im Bereich Stochastik. Dort bin ich in der Lehre im Fach Mathematik tätig und beschäftige mich mit meiner Dissertation.
