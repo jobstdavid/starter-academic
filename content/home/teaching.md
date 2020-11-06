@@ -5,8 +5,7 @@ active = true   # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Teaching"
-[content]
-Bla Bla
+fsdsdf
 
 
 [design]
