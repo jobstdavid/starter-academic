@@ -1,3 +1,4 @@
++++
 widget = "blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -9,4 +10,5 @@ title = "Teaching"
   columns = "2"
 
 [content]
-Happy or not 
+Happy or not
++++
