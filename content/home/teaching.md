@@ -6,11 +6,9 @@ weight = 60  # Order that this section will appear.
 
 title = "Teaching"
 
-[content]
+dsd
 
-"ads"
-
-"[design]
+[design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 +++
