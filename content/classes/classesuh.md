@@ -1,5 +1,5 @@
 ---
-title: Classes at the University of University
+title: Classes at the University of Hildesheim
 summary:
 date: "2018-06-28T00:00:00Z"
 

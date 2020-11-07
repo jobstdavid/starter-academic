@@ -11,6 +11,6 @@ title = "Teaching"
 columns = '2'
 +++
 
-My taught classes at
+My taught classes at the
 * [University of Hildesheim]({{< ref "/classes/classesuh.md" >}})
 * [Technical University of Munich]({{< ref "/classes/classestum.md" >}})
