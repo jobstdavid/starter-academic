@@ -74,4 +74,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My name is David Jobst and I work currently at the University of Hildesheim at the department for Mathematics and Applied Informatics as scientifc assistant in the field stochastics. Furthermore I teach in the field mathematics and I'm busy with my dissertation.
+My name is David Jobst and I work currently as scientifc assistant in the field stochastics at the University of Hildesheim at the department for Mathematics and Applied Informatics. Furthermore I teach in the field mathematics and I'm busy with my dissertation.
