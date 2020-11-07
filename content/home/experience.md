@@ -20,41 +20,41 @@ date_format = "Jan 2006"
 
 [[experience]]
     title = ""
-    company = "Universität Hildesheim"
+    company = "University of Hildesheim"
     company_url = "https://www.uni-hildesheim.de"
     location = "Hildesheim"
     date_start = "2020-08-01"
     date_end = ""
-    description = """Wissenschaftlicher Mitarbeiter"""
+    description = """Scientific Assistant"""
 
 
 [[experience]]
   title = ""
-  company = "Technische Universität München"
+  company = "Technical University of Munich"
   company_url = "https://www.tum.de"
-  location = "München"
+  location = "Munich"
   date_start = "2016-10-01"
   date_end = "2020-07-31"
   description = """
-  Studentische Hilfskraft mit den Aufgaben:
-  * Tutor im Fach Mathematik
-  * Hausaufgabenkorrektor im Fach Mathematik"""
+Student assistant with the tasks:
+  * Tutor for mathematics
+  * Homework corrector for mathematics"""
 
 [[experience]]
     title = ""
-    company = "Technische Universität München"
+    company = "Technical University of Munich"
     company_url = "https://www.tum.de"
-    location = "München"
+    location = "Munich"
     date_start = "2017-08-01"
     date_end = "2017-10-01"
-    description = """Praktikant am LNT zur Erstellung von Applets mittels JSXGraph"""
+    description = """Trainee at the LNT to create applets using JSXGraph"""
 
 [[experience]]
   title = ""
   company = "StudyHelp"
   company_url = "https://www.studyhelp.de"
-  location = "München, Rosenheim, Traunstein"
+  location = "Munich, Rosenheim, Traunstein"
   date_start = "2017-04-01"
   date_end = "2019-04-01"
-  description = """Leiter von Abiturvorbereitungskursen im Fach Mathematik"""
+  description = """Leader of high school preparation courses in mathematics"""
 +++
