@@ -20,3 +20,6 @@ header:
 | WS 18/19          | <ul><li>Higher Mathematics 1</li></ul>      | <ul><li>Tutor</li></ul>              |
 | SS 18             | <ul><li>Analysis 2</li></ul>                | <ul><li>Tutor</li></ul>              |
 | WS 17/18          | <ul><li>Analysis 1</li></ul>                | <ul><li>Tutor</li></ul>              |
+
+
+(WS abbreviates winter semester, SS abbreviates summer semester)

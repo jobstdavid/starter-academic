@@ -18,3 +18,5 @@ header:
 | ------------------| ------------------------- | -------------------|
 | WS 20/21          | <ul><li>Analysis</li><li>Dataanalysis and Statistics</li> <li>Seminar Applications of Linear Algebra</li></ul>  | <ul><li>Exercise Leader</li><li>Exercise Leader</li> <li>Seminar Leader</li></ul>             |
 | SS 20             | <ul><li>Proseminar Mathematics</li></ul>    | <ul><li>Seminar Leader</li></ul>              |
+
+(WS abbreviates winter semester, SS abbreviates summer semester)
