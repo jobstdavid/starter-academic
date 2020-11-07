@@ -25,20 +25,20 @@ interests:
 
 education:
   courses:
-  - course: 1. Staatsexamen für ein Lehramt an Gymnasien in Mathematik und Sport
-    institution: Technische Universität München
+  - course: 1. state exam for a teaching post at high schools in mathematics and sports
+    institution: Technical University of Munich
     year: 2020
     schoolbadge: '/tumlogo.png'
-  - course: M.Ed. für ein Lehramt an Gymnasien in Mathematik und Sport
-    institution: Technische Universität München
+  - course: M.Ed. for a teaching post at high schools in mathematics and sports
+    institution: Technical University of Munich
     year: 2020
     schoolbadge: '/tumlogo.png'
-  - course: B.Sc. in Mathematik mit Nebenfach Elektro- und Informationstechnik
-    institution: Technische Universität München
+  - course: B.Sc. in mathematics with minor electrical- and computer engineering
+    institution: Technical University of Munich
     year: 2019
     schoolbadge: '/tumlogo.png'
-  - course: B.Ed. für ein Lehramt an Gymnasien in Mathematik und Sport
-    institution: Technische Universität München
+  - course: B.Ed. for a teaching post at high schools in mathematics and sports
+    institution: Technical University of Munich
     year: 2017
     schoolbadge: '/tumlogo.png'
 
@@ -74,5 +74,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Mein Name ist David Jobst und ich arbeite aktuell an der Universität Hildesheim am Institut für Mathematik und Angewandte Informatik als wissenschaftlicher Mitarbeiter im Bereich Stochastik. Dort bin ich in der Lehre im Fach Mathematik tätig und beschäftige mich mit meiner Dissertation.
+My name is David Jobst and I work currently at the University of Hildesheim at the department for Mathematics and Applied Informatics as scientifc assistant in the field stochastics. Furthermore I teach in the field mathematics and I'm busy with my dissertation.
