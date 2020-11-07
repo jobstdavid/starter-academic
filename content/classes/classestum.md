@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-| Command           || Description                    |
-| ------------------|| ------------------------------ |
-| test              || Build your website.            |
-| test2             || View your website.             |
+| Command           | Description                    | Command           | Description                    |
+| ------------------| ------------------------------ | ------------------| ------------------------------ |
+| test              | Build your website.            | test              | Build your website.            |
+| test2             | View your website.             | test2             | View your website.             |
