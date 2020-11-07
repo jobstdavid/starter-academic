@@ -8,7 +8,7 @@ weight = 70
 title = "data visualisation work"
 
 [design]
-columns = '1'
+columns = '2'
 +++
 
 Still trying to get used to this
