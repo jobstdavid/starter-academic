@@ -13,3 +13,8 @@ header:
   caption: ""
   image: ""
 ---
+
+| Semester          | Course                    | Position           |
+| ------------------| ------------------------- | -------------------|
+| WS 20/21          | <ul><li>Analysis</li><li>Dataanalysis and Statistics</li></ul><li>Seminar Applications of Linear Algebra</li></ul>      | Exercise Leader             |
+| SS 20             | Proseminar Mathematics    | Seminar Leader              |
