@@ -17,25 +17,25 @@ subtitle = ""
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Mathematiklehre"
+  name = "Mathematical Eduation"
   description = ""
 
 [[feature]]
       icon = "chart-line"
       icon_pack = "fas"
-      name = "Statistik"
+      name = "Statistics"
       description = ""  
 
 [[feature]]
       icon = "dice"
       icon_pack = "fas"
-      name = "Wahrscheinlichkeitstheorie"
+      name = "Probability Theory"
       description = ""  
 
 [[feature]]
       icon = "cloud-sun"
       icon_pack = "fas"
-      name = "Probabilistische Vorhersagen"
+      name = "Probabilistic Forecasting"
       description = ""  
 
 [[feature]]
