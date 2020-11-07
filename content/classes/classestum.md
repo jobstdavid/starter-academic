@@ -15,8 +15,8 @@ header:
 ---
 | Semester          | Course                    | Position           |
 | ------------------| ------------------------- | -------------------|
-| WS 19/20          | Analysis 3                | Tutor              |
-| SS 19             | Higher Mathematics 2      | Tutor              |
-| WS 18/19          | Higher Mathematics 1      | Tutor              |
-| SS 18             | Analysis 2                | Tutor              |
-| WS 17/18          | Analysis 1                | Tutor              |
+| WS 19/20          | <ul><li>Analysis 3</li></ul>                | <ul><li>Tutor</li></ul>              |
+| SS 19             | <ul><li>Higher Mathematics 2</li></ul>      | <ul><li>Tutor</li></ul>              |
+| WS 18/19          | <ul><li>Higher Mathematics 1</li></ul>      | <ul><li>Tutor</li></ul>              |
+| SS 18             | <ul><li>Analysis 2</li></ul>                | <ul><li>Tutor</li></ul>              |
+| WS 17/18          | <ul><li>Analysis 1</li></ul>                | <ul><li>Tutor</li></ul>              |
