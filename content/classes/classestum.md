@@ -7,7 +7,7 @@ reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
-markup: mmark
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
