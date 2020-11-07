@@ -22,8 +22,8 @@ header:
 | WS 17/18          | Analysis 1                | Tutor              |
 
 {.table}
-| Disk 0 | Disk 1 | Disk 2 | Disk 3 |
-|:------:|:------:|:------:|:-------:|
+| Disk 0 | Disk 1 | Disk 2 | Disk 3  |
+|:------ |:------:|:------:| -------:|
 |   A1   |   A2   |   A3   | Ap(1-3) |
 |   A4   |   A5   |   A6   | Ap(4-6) |
 |   B1   |   B2   |   B3   | Bp(1-3) |
