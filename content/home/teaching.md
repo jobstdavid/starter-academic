@@ -13,4 +13,4 @@ columns = '2'
 
 My taught classes at
 * University of Hildesheim
-* Technical University of Munich 
+* [Technical University of Munich]({{< ref "/classes/classestum.md" >}}) 
