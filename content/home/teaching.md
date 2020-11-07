@@ -5,10 +5,12 @@ active = true
 weight = 70
 
 # ... Put Your Section Options Here (title etc.) ...
-title = "data visualisation work"
+title = "Teaching"
 
 [design]
 columns = '2'
 +++
 
-Still trying to get used to this
+My taught classes at
+* University of Hildesheim
+* Technical University of Munich 
