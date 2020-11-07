@@ -6,7 +6,7 @@ title: David Jobst
 superuser: true
 
 # Role/position
-role: Scientific Assistant
+role: Scientific assistant
 
 # Organizations/Affiliations
 organizations:
