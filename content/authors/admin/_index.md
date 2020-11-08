@@ -10,7 +10,7 @@ role: Scientific assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Universit of Hildesheim
+- name: University of Hildesheim
   url: "https://www.uni-hildesheim.de"
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,6 @@ education:
   - course: 1. state exam for a teaching post at high schools in mathematics and sports
     institution: Technical University of Munich
     year: 2020
-    schoolbadge: '/tumlogo.png'
   - course: M.Ed. for a teaching post at high schools in mathematics and sports
     institution: Technical University of Munich
     year: 2020
