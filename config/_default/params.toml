@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "david.jobst@t-online.de"
+email = david.jobst@t-online.de
 phone = "+49 175 9612888"
 
 # Address
