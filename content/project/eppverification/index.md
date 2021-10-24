@@ -4,7 +4,7 @@ summary: Verification Tools for the Statistical Postprocessing of Ensemble Forec
 tags:
 - R packages
 date: "2016-04-27T00:00:00Z"
-doi: ""
+doi: https://doi.org/10.5281/zenodo.5574572
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/jobstdavid/eppverification
