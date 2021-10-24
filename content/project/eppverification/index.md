@@ -9,6 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://github.com/jobstdavid/eppverification
 
 image:
+  caption: My sticker
   focal_point: Smart
 
 links:
