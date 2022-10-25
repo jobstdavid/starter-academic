@@ -16,6 +16,7 @@ header:
 
 | Semester          | Course                    | Position           |
 | ------------------| ------------------------- | -------------------|
+| SS 22         | <ul><li>Probability Theory and Statistics</li><li>Estimation and Testing Theory</li><li>Seminar Series and Infinite Products</li><li>Seminar Estimation and Testing Theory</li></ul>| <ul><li>Exercise Leader</li><li>Exercise Leader</li><li>Seminar Leader</li><li>Seminar Leader</li></ul>             |
 | WS 21/22          | <ul><li>Analysis</li><li>Data Analysis and Statistics</li> <li>Seminar Series and Infinite Products</li><li>Seminar Markov Processes and Random Walks</li> <li>Information- and Communicationtechnology</li> </ul> | <ul><li>Exercise Leader</li><li>Exercise Leader</li> <li>Seminar Leader</li><li>Seminar Leader</li><li>Seminar Leader</li></ul>             |
 | SS 21          | <ul><li>Probability Theory and Statistics</li><li>Stochastic Processes</li><li>Seminar Series and Infinite Products</li><li>Seminar Markov Processes and Random Walks</li><li>Proseminar Mathematics</li></ul>| <ul><li>Exercise Leader</li><li>Exercise Leader</li><li>Seminar Leader</li><li>Seminar Leader</li><li>Seminar Leader</li></ul>             |
 | WS 20/21          | <ul><li>Analysis</li><li>Data Analysis and Statistics</li> <li>Seminar Applications of Linear Algebra</li></ul>  | <ul><li>Exercise Leader</li><li>Exercise Leader</li> <li>Seminar Leader</li></ul>             |
